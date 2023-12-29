@@ -4,7 +4,7 @@ const BLOG = {
   email: 'gm@ail.hr',
   link: 'https://b.wpot.top',
   newsletter: 'Notionic Weekly',
-  description: '就是这样的烂诗人丨泪眼之前的博客',
+  description: '泪眼之前的博客',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
